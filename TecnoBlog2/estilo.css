@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+#header{
+    background-color: #f7b600;
+    text-align: center;
+    padding: 15px;
+}
+#menu, #logo{
+    padding:10px;
+
+}
+h1{
+    color:#4e4e4e;
+    font-size: 2.5em;
+}
+.branco{
+    color: white;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    
+    
+}
+a:link, a:visited{
+    color: #f7b600;
+    padding: 8px 1px;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
+#header a:link, #header a:visited{
+    color: #fff;
+    padding: 8px 12px;
+    
+}
+#header a:hover{
+    color:#f7b600;
+    background-color:white ;
+    text-decoration: none;
+}
+h2{
+    color: #f7b600;
+}
+#content{
+    width: 1000px;
+    margin:0 auto;
+    padding: 5px;
+}
+h5{
+    margin-bottom: 10px;
+    font-size: 12px;
+    
+}
+#post{
+    width: 660px;
+    margin: 2em;
+    padding: 1.5em;
+    background-color: white;
+    float:left;
+}
+#menu_lateral{
+    
+   
+    margin-top: 32px;
+    width: 220px;
+    float: right;
+
+}
+#end{
+    background-color: #ccc;
+    text-align: center;
+    padding: 15px;
+    clear:both
+}
+#post1{
+    margin-bottom: 40px; 
+}
+.conteudo_lateral{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+
+
+}
+h3{
+    color:#565656;
+    background-color: #ccc;
+    padding:5px;
+}
+.postagem-lateral{
+    font-size: 0.8em;
+    padding:5px;
+    border-bottom: 1px dotted #CCC;
+}

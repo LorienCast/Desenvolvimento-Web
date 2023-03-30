@@ -1,0 +1,42 @@
+body{
+    background:#dedec1 url("imagens/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#formatacao{
+    width: 900px;
+}
+
+#menu{
+    background-color: #c5c5b2;
+    padding-left: 18px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+a{
+    font-size: 25px;
+    color: #4b566a;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: bold;
+    text-decoration: none;
+    padding:5px;
+}
+.content{
+    background-color: antiquewhite;
+    padding:10px;
+}
+h2{
+    color:#828271;
+    font-size:1.2em;
+}
+#final{
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+    padding-top:18px;
+}
+.imagem{
+    border: 10px solid #c3c3ae;
+    margin-bottom: 10px;
+}
